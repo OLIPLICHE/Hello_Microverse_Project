@@ -1,0 +1,35 @@
+[33mcommit a35927f007f287c2d19cff1c51ba8720f9f85933[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m)[m
+Author: OLIPLICHE <63972670+OLIPLICHE@users.noreply.github.com>
+Date:   Tue Jul 6 22:13:50 2021 +0000
+
+    fix mistake1
+
+[33mcommit 9ca66db8fd21657b8a62cd6e136fb51ef36520e9[m[33m ([m[1;31morigin/development[m[33m)[m
+Author: OLIPLICHE <63972670+OLIPLICHE@users.noreply.github.com>
+Date:   Tue Jul 6 21:24:26 2021 +0000
+
+    first commit css and upgrade html
+
+[33mcommit 4b95fed4f1f79c64d7379130011bbd9e6048ccaf[m
+Author: OLIPLICHE <63972670+OLIPLICHE@users.noreply.github.com>
+Date:   Tue Jul 6 17:21:55 2021 +0000
+
+    first commit header
+
+[33mcommit 194cd53bc5b63494d5e5ffb384f7f216b1dafb83[m
+Author: OLIPLICHE <63972670+OLIPLICHE@users.noreply.github.com>
+Date:   Tue Jul 6 17:06:18 2021 +0000
+
+    first commit read me
+
+[33mcommit e9f2de2641e9e891a1bdca508d72fb360c8109c2[m
+Author: OLIPLICHE <63972670+OLIPLICHE@users.noreply.github.com>
+Date:   Tue Jul 6 15:35:14 2021 +0000
+
+    added .gitignore file
+
+[33mcommit 772d4b0d2159822ac4cc08331a9be39b3b520ca8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: OLIPLICHE <63972670+OLIPLICHE@users.noreply.github.com>
+Date:   Tue Jul 6 14:56:43 2021 +0000
+
+    Initial commit
