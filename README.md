@@ -15,7 +15,7 @@
 The link bellow is provided to clone the project from GitHub
 git clone https://github.com/OLIPLICHE/Hello_Microverse_Project.git
 
-Clone thise in your local repositoy
+Clone this in your local repository
 
 To get a local copy up and running follow these simple example steps.
 
