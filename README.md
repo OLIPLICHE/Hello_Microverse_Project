@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-
+"Hello Microverse" project
 > One paragraph statement about the project.
-This is my first Microverse Project
+Hello Microverse Project is my first project in Microverse. In this Project, we apply the knowlege on linter and github flow
 
 ## Built With
 
@@ -12,6 +12,7 @@ This is my first Microverse Project
 - Technologies used
 
 ## Getting Started
+git clone https://github.com/OLIPLICHE/Hello_Microverse_Project.git
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
@@ -24,8 +25,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/OLIPLICHE/)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/olipliche-paka-mavoungou)
+- GitHub: [@OLIPLICHE]
+- LinkedIn: [olipliche-paka-mavoungou]
 
 ## 🤝 Contributing
 
